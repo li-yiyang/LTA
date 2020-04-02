@@ -1,0 +1,5 @@
+# #Chess
+## About Chess
+Well, this app is built based on shoes(now the time I use shoes 3.3.4, which can poorly works on my windows computer). Sadly, the game now is useless.(Although it has finished the PvP mode, it still remains useless because nobody here is gonna play with me.) Well, the story is so sad that I highly recommand you to equip yourself with an union, in case that your tears won't shade down. But, what's for? I am not _why(and even worse, he's gone!) Thus painfully and aimlessly, I float in this world, making something so tiny and so stupid that even it which was made by me, my own self, can't lift me up. Down, down, down...  
+Wait, what I am goning to say(or type) is that this is a chess game. Yes, chess game with PvP mode. Maybe in the future I will add something new, but now I think I'd give it up.  
+![the game](ui-pics/the-main-window.png)
